@@ -96,7 +96,7 @@ Steps performed:
 ## Project Files
 
 * Excel Dashboard File
-* Raw Dataset
+* [Raw Dataset](https://github.com/GaneshJag31/Data-Analysis-Project-1/blob/main/Bike%20Sales%20Dataset.xlsx)
 * <img width="982" height="657" alt="Screenshot 2026-02-27 145556" src="https://github.com/user-attachments/assets/f9feab2d-e7aa-4ee2-8532-45e39d634580" />
 
 
